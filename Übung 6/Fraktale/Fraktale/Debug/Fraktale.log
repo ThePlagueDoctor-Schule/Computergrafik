@@ -1,0 +1,59 @@
+﻿  ChildView.cpp
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\Vector3.h(2,1): warning C4005: "DIM": Makro-Neudefinition
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\Vector2.h(2): message : Siehe vorherige Definition von "DIM"
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(265,49): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(265,30): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(267,52): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(267,32): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(286,49): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(286,30): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(288,52): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(288,32): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(326,50): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(326,31): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(328,53): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(328,33): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(379,50): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(379,31): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(381,53): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(381,33): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(432,43): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(432,27): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(435,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(435,28): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(438,43): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(438,27): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(441,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(441,28): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(447,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(447,28): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(448,48): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(448,30): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(504,43): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(504,27): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(507,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(507,28): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(510,43): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(510,27): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(513,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(513,28): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(519,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(519,28): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(520,52): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(520,32): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(568,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(568,28): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(571,45): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(571,29): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(574,44): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(574,28): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(577,45): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(577,29): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(583,45): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(583,29): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(584,53): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(584,33): warning C4244: "Argument": Konvertierung von "double" in "int", möglicher Datenverlust
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(772,18): warning C4305: "Argument": Verkürzung von "double" in "float"
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(852,28): warning C4305: "Argument": Verkürzung von "double" in "GLfloat"
+F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Fraktale\ChildView.cpp(870,27): warning C4244: "=": Konvertierung von "double" in "float", möglicher Datenverlust
+  Fraktale.vcxproj -> F:\Hochschule\Semester 4\Computergrafik\Aufgaben\Übung 6\Fraktale\Debug\Fraktale.exe
